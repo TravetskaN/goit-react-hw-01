@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://pics.clipartpng.com/midle/Mango_PNG_Clip_Art-2411.png",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://pics.clipartpng.com/midle/Kiwi_PNG_Clipart-227.png",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://www.pinclipart.com/picdir/big/558-5583138_transparent-pineapple-pineapple-transparent-background-png-clipart.png",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://www.seekpng.com/png/full/260-2603442_orange-fruit-png-orange-png.png",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg2Mzc4MzUtaW1hZ2Utam9iNjIxXzUucG5n.png",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]
